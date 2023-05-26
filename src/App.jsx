@@ -5,7 +5,7 @@ import useToggle from './useToggle'
 
 
 function App() {
-  const [isOn, toggleBtn] = useToggle(false)
+  const [isOn, toggleBtn] = useToggle(true)
 
  
   
